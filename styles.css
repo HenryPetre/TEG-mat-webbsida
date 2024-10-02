@@ -29,3 +29,19 @@ body {
     border: solid;
     text-align: center;
 }
+.lunch {
+    border: solid;
+    font-size: 22px
+}
+.mat-fre {
+    border: solid;
+    text-align: center;
+}
+.vecka {
+    border: solid;
+    font-size: 22px
+}
+.betyg {
+    border: solid;
+    font-size: 22px;
+}
