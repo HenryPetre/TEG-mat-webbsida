@@ -1,0 +1,31 @@
+.matsedel {
+    border: solid red;
+}
+header {
+    color: rgb(0, 0, 0);
+}
+body {
+    color: rgb(255, 0, 0);
+}
+
+.matsedel {
+    height: auto;
+    width: 100%;
+}
+.mat-tis {
+    border: solid;
+    text-align:center
+}
+.mat-mån {
+    border: solid;
+    
+    text-align: center;
+}
+.mat-ons {
+    border: solid;
+    text-align: center;
+}
+.mat-tor {
+    border: solid;
+    text-align: center;
+}
