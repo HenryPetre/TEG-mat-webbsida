@@ -6,7 +6,7 @@ header {
 }
 body {
     color: rgb(0, 0, 0);
-    background-color:rgba(184, 107, 120, 0.767)
+    background-color:rgba(181, 215, 106, 0.767)
 }
 
 .matsedel {
@@ -56,7 +56,7 @@ body{
 
 .matsedel {
     border-radius: 7px;
-    background-color: rgba(255, 98, 124, 0.618)
+    background-color: rgba(51, 153, 255, 0.408)
 }
 .mån, .tis, .ons, .tor, .fre {
     border: solid;
